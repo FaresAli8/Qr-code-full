@@ -1,0 +1,15 @@
+{
+    "appName": "Smart QR",
+    "packageName": "com.example.smartqr",
+    "minSdk": 24,
+    "targetSdk": 34,
+    "versionName": "1.0",
+    "versionCode": 1,
+    "mainFeatures": [
+        "QR Scanner (CameraX + ZXing)",
+        "QR Generator (Text/URL/WiFi)",
+        "Flashlight Toggle",
+        "Share QR Image",
+        "Jetpack Compose UI"
+    ]
+}
